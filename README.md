@@ -1,201 +1,36 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Raffay Sharjeel</h1>
+<h3 align="center">BSCS Student | Cloud Data Engineer | Python • SQL • AWS</h3>
 
-👋 Raffay Sharjeel
+- 🔭 I’m currently working on [Data Engineering & Cloud Projects](https://raffay-sharjeel.vercel.app/)
 
-Cloud & Data Engineering · Python · SQL · AWS
+- 🌱 I’m currently learning **AWS, Apache Airflow, PySpark, Docker & Data Engineering**
 
-BSCS Student | Building data pipelines, cloud solutions & practical software
+- 👯 I’m looking to collaborate on **Data Engineering, Python & Open Source Projects GitHub**
 
-<br>
+- 🤝 I’m looking for help with **AWS, Apache Airflow & Building Scalable Data Pipelines**
 
-🌐 Portfolio · 💼 LinkedIn · 🐙 GitHub
+- 👨‍💻 All of my projects are available at [https://raffay-sharjeel.vercel.app/](https://raffay-sharjeel.vercel.app/)
 
-</div>
+- 📝 I regularly write articles on [LinkedIn & GitHub](LinkedIn & GitHub)
 
-🧑‍💻 About Me
+- 💬 Ask me about **Python, SQL, Pandas, Git, GitHub & Web Development**
 
-I'm a BSCS student at Iqra University focused on growing into a Cloud & Data Engineer.
+- 📫 How to reach me **raffaysharjeel@gmail.com**
 
-I started with web development and gradually became more interested in what happens behind applications — data, automation, backend systems, cloud infrastructure and scalable pipelines.
+- 📄 Know about my experiences [https://raffay-sharjeel.vercel.app/resume.pdf](https://raffay-sharjeel.vercel.app/resume.pdf)
 
-Currently, I'm focused on turning what I learn into practical projects rather than only following tutorials.
+- ⚡ Fun fact **I enjoy turning data into useful insights and ideas into real projects.**
 
-🎓 BSCS Student
-☁️  Cloud & Data Engineering
-🐍 Python + Pandas + NumPy
-🗄️ SQL
-🔄 ETL / ELT
-⚙️ Apache Airflow
-⚡ PySpark
-☁️ AWS
-🐳 Docker
-🌐 React + Node.js background
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/raffaysharjeel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/raffaysharjeel/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/raffay.sharjeel.9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/raffay.sharjeel.9/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/r.a.f.f.a.y_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/r.a.f.f.a.y_/" height="30" width="40" /></a>
+</p>
 
-🚀 My Current Direction
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-Python
-   │
-   ├── Pandas / NumPy
-   │
-   ▼
-SQL
-   │
-   ▼
-ETL / ELT
-   │
-   ▼
-Airflow
-   │
-   ▼
-PySpark
-   │
-   ▼
-AWS
-   │
-   ▼
-Data Warehousing
-   │
-   ▼
-End-to-End Data Pipelines
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raffay-sharjeel&show_icons=true&locale=en&layout=compact" alt="raffay-sharjeel" /></p>
 
-My goal is to build production-style data projects that demonstrate the complete journey:
-
-Ingestion → Transformation → Storage → Orchestration → Analytics → Deployment
-
-🛠️ Tech Stack
-
-Data & Programming
-
-Python · SQL · Pandas · NumPy
-
-Cloud & Data Engineering
-
-AWS · S3 · Lambda · RDS · Glue · Redshift · Airflow · PySpark · Docker
-
-Web Development
-
-JavaScript · React · Next.js · Node.js · Express.js · Tailwind CSS · Firebase
-
-Tools
-
-Git · GitHub · VS Code · Vercel
-
-📌 Featured Projects
-
-I'm building my portfolio around projects that show real engineering work, not just tutorials.
-
-🔄 End-to-End Data Pipeline
-
-Python · Pandas · SQL · ETL
-
-A complete pipeline for extracting, cleaning, transforming and loading data into a structured destination.
-
-Focus: data ingestion · transformation · validation · automation
-
-☁️ AWS Data Engineering Project
-
-AWS · Python · SQL · Cloud Storage
-
-A cloud-based data workflow designed to demonstrate how data can move from ingestion to processing and analytics.
-
-Focus: S3 · cloud architecture · data processing · analytics
-
-🌐 Full-Stack Applications
-
-React · Next.js · Node.js · APIs
-
-Modern web applications built from my earlier full-stack development journey.
-
-Focus: frontend · backend · REST APIs · deployment
-
-📈 GitHub
-
-I use GitHub to document my learning, experiments and projects.
-
-Current focus:
-
-████████████████████████  Python
-██████████████████████░░  SQL
-██████████████████░░░░░░  Pandas / NumPy
-██████████████░░░░░░░░░░  ETL / ELT
-███████████░░░░░░░░░░░░░  AWS
-████████░░░░░░░░░░░░░░░░  Airflow
-██████░░░░░░░░░░░░░░░░░░  PySpark
-
-The bars are simply a visual representation of what I'm currently prioritizing — not a measure of professional skill.
-
-🎯 2026 Goals
-
-Build 3–4 strong end-to-end Data Engineering projects
-
-Become confident with advanced SQL
-
-Build automated ETL pipelines
-
-Learn Apache Airflow properly
-
-Learn PySpark for distributed processing
-
-Strengthen AWS Data Engineering skills
-
-Learn Docker for data workflows
-
-Explore Data Warehousing and dbt
-
-Contribute to Open Source
-
-Build a portfolio ready for internships and junior opportunities
-
-🧠 How I Learn
-
-       LEARN
-         ↓
-       BUILD
-         ↓
-       BREAK
-         ↓
-       DEBUG
-         ↓
-      IMPROVE
-         ↓
-      DEPLOY
-         ↓
-      REPEAT 🔁
-
-I believe projects should be understandable, reproducible and useful — not just code that works once.
-
-🌐 Portfolio
-
-raffay-sharjeel.vercel.app
-
-My portfolio contains selected projects, skills, education and my development journey.
-
-🤝 Let's Connect
-
-I'm interested in connecting with people working in:
-
-Cloud · Data Engineering · Software Engineering · Python · Open Source
-
-🌐 Portfolio: raffay-sharjeel.vercel.app
-
-💼 LinkedIn: Raffay Sharjeel
-
-🐙 GitHub: Raffay-Sharjeel
-
-⚡ A Little About My Journey
-
-I started with Web Development and learned how to build applications from the frontend to the backend.
-
-Now I'm going deeper into the systems behind those applications:
-
-data → pipelines → cloud → automation → scalable systems
-
-That's the direction I'm building toward.
-
-<div align="center">
-
-Learn. Build. Ship. Repeat. 🚀
-
-Thanks for visiting my profile!
-
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raffay-sharjeel&" alt="raffay-sharjeel" /></p>

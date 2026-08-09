@@ -1,229 +1,236 @@
 <div align="center">
 
-👋 Hi, I’m Raffay Sharjeel
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Raffay%20Sharjeel&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20%26%20Data%20Engineering%20%7C%20Python%20%7C%20SQL%20%7C%20AWS&descAlignY=58&descSize=16" width="100%"/>
 
-Cloud & Data Engineering • Python • SQL • AWS
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=BSCS+Student+%F0%9F%8E%93;Building+Cloud+%26+Data+Engineering+Projects+%E2%98%81%EF%B8%8F;Python+%7C+SQL+%7C+AWS+%7C+ETL;From+Web+Development+to+Data+Engineering+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-BSCS Student | Building Data Pipelines, Cloud Solutions & ModernApplications
+<br/>
 
-<p>
-<a href="https://raffay-sharjeel.vercel.app/">🌐 Portfolio</a> •
-<a href="https://www.linkedin.com/">💼 LinkedIn</a> •
-<a href="https://github.com/Raffay-Sharjeel">🐙 GitHub</a>
-</p>
+<a href="https://raffay-sharjeel.vercel.app/">
+<img src="https://img.shields.io/badge/🌐_Portfolio-Visit-2563EB?style=for-the-badge" />
+</a>
+<a href="https://github.com/Raffay-Sharjeel">
+<img src="https://img.shields.io/badge/GitHub-Raffay--Sharjeel-111827?style=for-the-badge&logo=github" />
+</a>
 
 </div>
 
-🚀 About Me
+👨‍💻 whoami
 
-I’m a BSCS student at Iqra University with a strong interest inCloud & Data Engineering.
+class Raffay:
+    role = "BSCS Student"
+    focus = "Cloud & Data Engineering"
 
-I enjoy working with data, automating workflows, building APIs andapplications, and exploring cloud technologies. My current focus is ondeveloping the skills required to design and build reliable, scalable,end-to-end data pipelines.
+    currently_learning = [
+        "Python",
+        "SQL",
+        "ETL / ELT",
+        "Apache Airflow",
+        "PySpark",
+        "AWS",
+        "Data Warehousing",
+        "Docker"
+    ]
 
-I also have a background in full-stack web development, which helpsme understand how data systems connect with real-world applications.
+    background = ["Web Development", "React", "Node.js", "Next.js"]
 
-🎓 BSCS student at Iqra University
+    goal = "Build reliable, scalable and real-world data systems"
 
-🐍 Working with Python, Pandas & NumPy
+    motto = "Learn it. Build it. Break it. Fix it. Ship it."
 
-🗄️ Building skills in SQL & data processing
+⚡ What I'm Building
 
-🔄 Learning ETL/ELT & data pipeline architecture
+I'm turning my software-development background into Cloud & Data Engineering skills by building practical, end-to-end projects.
 
-☁️ Exploring AWS cloud services
+                    DATA ENGINEERING JOURNEY
 
-⚙️ Learning Apache Airflow & PySpark
+       🐍 Python
+           │
+           ▼
+       🗄️ SQL
+           │
+           ▼
+       🔄 ETL / ELT
+           │
+           ▼
+       ⚙️ Airflow
+           │
+           ▼
+       ⚡ PySpark
+           │
+           ▼
+       ☁️ AWS
+           │
+           ▼
+       🏗️ Data Warehousing
+           │
+           ▼
+       🚀 Production-style Pipelines
 
-🐳 Exploring Docker & deployment workflows
+🛠️ Tech Arsenal
 
-🌐 Experienced with React, Node.js & modern web development
+<div align="center">
 
-🤝 Open to collaborating on Python, Data, Cloud & Open Sourceprojects
+🐍 Data & Programming
 
-🎯 What I’m Currently Learning
+<img src="https://skillicons.dev/icons?i=python,postgres,mysql" />
 
-Python
-   ↓
-SQL
-   ↓
-ETL / ELT
-   ↓
-Apache Airflow
-   ↓
-PySpark
-   ↓
-AWS
-   ↓
-Data Warehousing
-   ↓
-Docker
-   ↓
-End-to-End Data Engineering Projects
+<br/><br/>
 
-My goal is to move beyond tutorials and build production-styleprojects that demonstrate practical understanding of data ingestion,transformation, orchestration, storage, analytics and cloud deployment.
+☁️ Cloud & Engineering
 
-🧰 Tech Stack
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github" />
 
-🐍 Programming & Data
+<br/><br/>
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-</p>
+🌐 Development
+
+<img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,tailwind,firebase" />
+
+</div>
+
+📊 GitHub Dashboard
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Raffay-Sharjeel&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=tokyonight" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raffay-Sharjeel&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Raffay-Sharjeel&hide_border=true&theme=tokyonight" />
+
+</div>
+
+🚀 Featured Work
 
 ☁️ Cloud & Data Engineering
 
-<p>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
-<img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow"/>
-<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-</p>
+Building projects around:
 
-🌐 Web Development
+🔄 ETL / ELT pipelines
 
-<p>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-</p>
+🐍 Python data processing
 
-🛠️ Tools & Platforms
+🗄️ SQL & analytics
 
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-</p>
+⚙️ Workflow orchestration
 
-📌 Featured Projects
+⚡ Distributed data processing
 
-📊 Data Engineering Projects
+☁️ AWS cloud workflows
 
-I’m building a portfolio of practical projects focused on:
+🏗️ Data warehousing
 
-Data ingestion from APIs, files and databases
+🐳 Containerized data applications
 
-Data cleaning and transformation with Python
+🌐 Full-Stack Development
 
-SQL-based analytics
+Before moving deeper into Data Engineering, I built applications using:
 
-ETL / ELT workflows
+React · Next.js · Node.js · Express · MongoDB · Firebase · Tailwind CSS
 
-Workflow orchestration with Airflow
+That experience helps me understand the complete path from data → backend → API → application.
 
-Distributed processing with PySpark
+📌 Projects I'm Working Toward
 
-Cloud-based data storage and processing
+Project
 
-End-to-end data pipelines
+Focus
 
-Check my pinned repositories below for the latest projects.
+Status
 
-🌐 Web Development
+🔄 End-to-End Data Pipeline
 
-I also build modern web applications using technologies such as:
+Python • SQL • ETL
 
-React
+🟡 Building
 
-Next.js
+☁️ AWS Data Pipeline
 
-Node.js
+AWS • Cloud • Storage
 
-Express
+🟡 Learning
 
-MongoDB
+⚙️ Automated ETL Workflow
 
-Tailwind CSS
+Airflow • Python
 
-Firebase
+🔵 Planned
 
-My web-development background gives me a useful understanding of howbackend systems and data services are consumed by real applications.
+⚡ Big Data Pipeline
 
-📈 GitHub Activity
+PySpark • Data Processing
+
+🔵 Planned
+
+The goal isn't to collect repositories — it's to build projects that demonstrate real engineering decisions.
+
+🎯 2026 Focus
+
+[████████████████░░░░] Python + Data
+[██████████████░░░░░░] SQL
+[███████████░░░░░░░░░] ETL / ELT
+[████████░░░░░░░░░░░░] AWS
+[██████░░░░░░░░░░░░░░] Airflow
+[████░░░░░░░░░░░░░░░░] PySpark
+[███░░░░░░░░░░░░░░░░░] Docker
+
+Next: turn everything I'm learning into end-to-end projects.
+
+🧠 How I Learn
+
+        Learn
+          ↓
+        Build
+          ↓
+        Break
+          ↓
+        Debug
+          ↓
+        Improve
+          ↓
+        Deploy
+          ↓
+        Repeat 🔁
+
+I prefer building over just watching tutorials — every new concept should eventually become something I can run, explain and improve.
+
+🌐 Find Me Around the Web
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Raffay-Sharjeel&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="170" />
+<a href="https://raffay-sharjeel.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raffay-Sharjeel&layout=compact&hide_border=true&theme=transparent" height="170" />
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/Raffay-Sharjeel">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
-<div align="center">
+💬 Random Fact
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Raffay-Sharjeel&hide_border=true&theme=transparent" />
+I started with Web Development and gradually found myself more interested in what happens behind the application — data, systems, automation and cloud infrastructure.
 
-</div>
-
-🏆 Goals
-
-Short Term
-
-Strengthen advanced Python
-
-Build multiple SQL projects
-
-Build complete ETL pipelines
-
-Learn Apache Airflow
-
-Learn PySpark
-
-Strengthen AWS fundamentals
-
-Learn Docker for data workflows
-
-Long Term
-
-Build production-style cloud data pipelines
-
-Develop strong data warehousing fundamentals
-
-Work with large-scale data processing
-
-Build an impressive Data Engineering portfolio
-
-Contribute to Open Source
-
-Become a strong Cloud & Data Engineer
-
-💡 My Approach
-
-I believe the best way to learn technology is to build with it.
-
-Instead of only collecting certifications or watching tutorials, I’mfocused on turning what I learn into projects that demonstrate:
-
-Learn → Build → Break → Debug → Improve → Deploy
-
-🌐 Portfolio
-
-Want to see more of my work?
-
-👉 raffay-sharjeel.vercel.app
-
-My portfolio contains selected projects, skills, education and mycurrent development journey.
-
-🤝 Let’s Connect
-
-I’m always interested in connecting with developers, engineers, studentsand people working in Cloud, Data, Software Engineering and OpenSource.
-
-<p>
-<a href="https://raffay-sharjeel.vercel.app/">🌐 Portfolio</a><br/>
-<a href="https://www.linkedin.com/">💼 LinkedIn</a><br/>
-<a href="https://github.com/Raffay-Sharjeel">🐙 GitHub</a>
-</p>
+So now I'm building my way toward Cloud & Data Engineering. ☁️📊
 
 <div align="center">
 
-⚡ Keep Learning. Keep Building. Keep Improving.
+⭐ If you find something useful here, feel free to explore my repositories.
 
-<i>Building my way from software development toward Cloud & DataEngineering.</i>
+<img src="https://komarev.com/ghpvc/?username=Raffay-Sharjeel&style=flat-square&color=2563EB" alt="Profile views"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0f172a&height=100&section=footer" width="100%"/>
 
 </div>

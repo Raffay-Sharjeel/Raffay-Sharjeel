@@ -84,13 +84,13 @@ I started as a MERN stack developer, moved into cloud & data engineering, and no
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=raffaysharjeel&show_icons=true&theme=tokyonight&count_private=true" alt="Raffay's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Raffay-Sharjeel&show_icons=true&theme=tokyonight&count_private=true" alt="Raffay's GitHub Stats" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=raffaysharjeel&theme=tokyonight" alt="Raffay's GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Raffay-Sharjeel&theme=tokyonight" alt="Raffay's GitHub Streak" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raffaysharjeel&layout=compact&theme=tokyonight" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raffay-Sharjeel&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
